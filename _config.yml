@@ -1,0 +1,8 @@
+# Site settings
+title: s10akir
+email: k017c1067@it-neec.jp
+twitter_username: s10akir
+github_username: s10akir
+
+# Build settings
+markdown: kramdown
